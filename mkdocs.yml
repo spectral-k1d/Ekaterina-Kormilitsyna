@@ -1,9 +1,9 @@
 site_name: My Docs
 theme:
-  name: readthedocs
-markdown_extensions:
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences
+  name: material
+# markdown_extensions:
+#  - admonition
+#  - pymdownx.details
+# - pymdownx.superfences
   
   
