@@ -2,10 +2,13 @@ site_name: Ekaterina Kormilitsyna
 
 theme:
   name: material
-  theme:
-    palette:
-      scheme: slate
-      primary: black
+  palette:
+    primary: black
+    scheme: slate
+    accent: light green
+  font:
+    text: Roboto Mono
+    code: Roboto Mono
 
 
 markdown_extensions:
