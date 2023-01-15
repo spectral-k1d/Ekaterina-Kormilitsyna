@@ -1,4 +1,4 @@
-# _ pre-fab _
+# _pre-fab _
 
 In the first weeks of 2023 I have tried to prepare myself for the up and coming Fab-Course by doing some pre-fab work with Georg. This had come with some challenges and required quite a bit of trouble shooting but there has been some progress made!
 
@@ -149,7 +149,11 @@ $ ssh -T git@github.com
 Hi spectral-k1d! You've successfully authenticated,
 but GitHub does not provide shell access.
 ```
-
+!!! failure "OH NO"
+    
+    Attempting to run gh-deploy came up triggred a log in request github. my identity could not be verified.
+	Solution: I had to generate a token on the github website and had to enter this into the 'Password' request field after i entered my GitHub username.
+	This was able to verify my identity. Since then there was no further log-in request.
 
 YAY Things seem to be working lets try to start the deploy to github!
 

@@ -1,4 +1,4 @@
-# _ Pre-Fab _Final Project Ideas _
+# _final project ideas _
 ### **SENTIMENTAL COMPUTATION**
 
 **Alternative Networks Structures:**
@@ -64,3 +64,12 @@ Overall all of my current ideas and projects deal with concepts of developing un
 There is something mystical to that. Using technological maker skills to attempt and capture something ephemeral… more over to be able to design it to either in the future operate without further human intervention and seek a post-human future of techno-natural communication possibilities… or to instead seek a reality which allows us to widen our scope of sensibilities beyond that being limited to current modes of communications employed by societal structures: 
 
 [Something to consider in the latter is to not forget to research and include native and aboriginal communication methods not exclusive to the western world- Communication methods and structures have often traversed into the natural. ]
+
+
+
+
+###FEEDBACK FROM FIRST SESSION:
+
+I should come up with a specific product for the final week! Step away from just concepts 
+
+analogue video signal chips! - to use real analogue displays
