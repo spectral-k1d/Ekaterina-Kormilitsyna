@@ -2,6 +2,7 @@ site_name: Ekaterina Kormilitsyna
 
 theme:
   name: material
+  custom_dir: overrides
   theme:
     palette:
       scheme: slate
