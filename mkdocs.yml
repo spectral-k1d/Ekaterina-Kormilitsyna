@@ -2,6 +2,7 @@ site_name: Ekaterina Kormilitsyna
 
 theme:
   name: material
+  theme:
     palette:
-      scheme: black
+      scheme: slate
       primary: black
