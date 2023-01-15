@@ -5,5 +5,4 @@ theme:
   theme:
     palette:
       scheme: slate
-	  primary: black
-  
+      primary: black
