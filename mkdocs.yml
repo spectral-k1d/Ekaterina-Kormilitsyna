@@ -2,3 +2,7 @@ site_name: Ekaterina Kormilitsyna
 
 theme:
   name: material
+  theme:
+    palette:
+      scheme: slate
+  
