@@ -73,3 +73,6 @@ There is something mystical to that. Using technological maker skills to attempt
 I should come up with a specific product for the final week! Step away from just concepts 
 
 analogue video signal chips! - to use real analogue displays
+
+
+![Screenshot 2023 01 22 At 17.21.35](../images/Screenshot%202023-01-22%20at%2017.21.35.png){ align=right }
