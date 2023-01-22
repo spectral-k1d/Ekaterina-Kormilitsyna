@@ -1,4 +1,4 @@
-# _final project ideas _
+# _final project ideas - 2nd _
 ### **SENTIMENTAL COMPUTATION**
 
 **Alternative Networks Structures:**
@@ -15,6 +15,7 @@ No.
 **Why was not able to do this?** : 
 I realised that I was batteling two conflicting concepts: On the one hand I was focused on a maschine that would visualise different forms of sensing and different sensing objectives using aesthetics, on the other I wanted to incooporate mycellium as a material conductive implementation. But in the end there was no definitive of simple idea to drive a product design. 
 
+```
            ____
        _.-'78o `"`--._
    ,o888o.  .o888o,   ''-.
