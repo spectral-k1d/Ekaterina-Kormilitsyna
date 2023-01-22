@@ -75,4 +75,4 @@ I should come up with a specific product for the final week! Step away from just
 analogue video signal chips! - to use real analogue displays
 
 
-![Screenshot 2023 01 22 At 17.21.35](../images/Screenshot%202023-01-22%20at%2017.21.35.png){ align=right }
+![Screenshot 2023 01 22 At 17.21.35](assets/images/Screenshot%202023-01-22%20at%2017.21.35.png)
